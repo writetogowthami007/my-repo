@@ -41,6 +41,7 @@ A JavaScript project structured with best practices, including ESLint configurat
 ## 🔧 Setting Up the Repository
 
   1. Initialize npm in the Project Directory
+     
     ```bash
     npm init -y
 
