@@ -15,8 +15,8 @@ A JavaScript project structured with best practices, including ESLint configurat
 8. [Author](#author)
 
 ---
-
-## Pre-requisites & Installations 📋
+📋
+## Pre-requisites & Installations
 
 ### 📌 System Requirements
 - **Node.js & npm:** Ensure you have Node.js and npm installed.
@@ -38,7 +38,8 @@ A JavaScript project structured with best practices, including ESLint configurat
   ```bash
   git --version
 
-## Setting Up the Repository 🔧
+🔧
+## Setting Up the Repository
 
   1. Initialize npm in the Project Directory
      
@@ -57,7 +58,8 @@ A JavaScript project structured with best practices, including ESLint configurat
 
      Configure it based on your project type. Add rules if necessary
 
-## Project Structure 📁
+📁
+## Project Structure
 
   ```text
   my-repo/
