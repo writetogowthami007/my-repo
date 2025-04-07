@@ -47,10 +47,11 @@ A JavaScript project structured with best practices, including ESLint configurat
     This creates a package.json file with default settings
 
   2. Install ESLint and Jest
+     
     ```bash
     npm install eslint jest --save-dev
   
-  3. Initialize ESLint Configuration
+  4. Initialize ESLint Configuration
   ```bash
   npx eslint --init
 
