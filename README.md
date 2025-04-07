@@ -24,21 +24,21 @@ A JavaScript project structured with best practices, including ESLint configurat
   node -v
   npm -v
 
-- ** Node.js Installation **
+- **Node.js Installation**
 
   If not installed, download from [Node.js Official Website](https://nodejs.org/).
 
-- ** nvm (Node Version Manager) **: Recommended for managing Node versions.  
+- **nvm (Node Version Manager)**: Recommended for managing Node versions.  
 
-```bash
-nvm install latest
-nvm use <version>
+  ```bash
+  nvm install latest
+  nvm use <version>
 
-- ** Git **: Make sure Git is installed.
+- **Git**: Make sure Git is installed.
 
   git --version
 
-🔧 Setting Up the Repository
+### 🔧 Setting Up the Repository
 
 Initialize npm in the Project Directory
 
