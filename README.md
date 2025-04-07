@@ -101,40 +101,40 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 ## 📦 Installation
 
-Clone the Repository:
-
-git clone https://github.com/your-username/my-repo.git
-
-Navigate to the Project Directory:
-
-cd my-repo
-
-Install Dependencies:
-
-npm install
+  Clone the Repository:
+  ```bash
+  git clone https://github.com/your-username/my-repo.git
+  
+  Navigate to the Project Directory:
+  ```bash
+  cd my-repo
+  
+  Install Dependencies:
+  ```bash
+  npm install
 
 ## 🔍 Usage
 
-Start Project:
-
-npm start
-
-Run Tests:
-
-npm run test
-
-Lint Code:
-
-npm run lint
-
-Auto-fix Lint Errors:
-
-npm run lint:fix
+  Start Project:
+  ```bash
+  npm start
+  
+  Run Tests:
+  ```bash
+  npm run test
+  
+  Lint Code:
+  ```bash
+  npm run lint
+  
+  Auto-fix Lint Errors:
+  ```bash
+  npm run lint:fix
 
 ## 📃 License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License
 
 ## 💡 Author
 
-Maintained by Gowthami Mittameeda
+    Maintained by Gowthami Mittameeda
