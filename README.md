@@ -24,7 +24,7 @@ A JavaScript project structured with best practices, including ESLint configurat
   node -v
   npm -v
 
-# Node.js Installation
+### Node.js Installation
 
 If not installed, download from [Node.js Official Website](https://nodejs.org/).
 
