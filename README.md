@@ -78,27 +78,25 @@ A JavaScript project structured with best practices, including ESLint configurat
 ## 📚 Best Practices Implemented
 
 ### 📁 Modular Code Structure
-    Breaking the code into modules within the src/modules/ directory for better maintainability.
+    - Breaking the code into modules within the src/modules/ directory for better maintainability.
 
 ### 📏 ESLint Configuration
-    Configured to maintain coding standards and formatting consistency.
+    - Configured to maintain coding standards and formatting consistency.
 
 ### ✅ Testing Framework - Jest
-    Automated testing using Jest for better reliability.
+    - Automated testing using Jest for better reliability.
 
 ### 🌳 Git Best Practices
-    Using .gitignore to exclude unnecessary files (e.g., node_modules/, .idea/).
-
-    Clear commit messages with relevant prefixes (feat:, fix:, docs:, etc.).
+    - Using .gitignore to exclude unnecessary files (e.g., node_modules/, .idea/).
+    - Clear commit messages with relevant prefixes (feat:, fix:, docs:, etc.).
 
 ### 📐 Consistent Formatting Rules
-    Using ESLint rules such as:
-
-    semi: Enforces semicolons at the end of statements
-    quotes: Enforces double quotes
-    indent: Ensures consistent indentation
-    no-unused-vars: Warns about unused variables
-    prefer-const: Enforces const over let where applicable
+    - Using ESLint rules such as:
+        - semi: Enforces semicolons at the end of statements
+        - quotes: Enforces double quotes
+        - indent: Ensures consistent indentation
+        - no-unused-vars: Warns about unused variables
+        - prefer-const: Enforces const over let where applicable
 
 
 ## 📦 Installation
