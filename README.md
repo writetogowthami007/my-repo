@@ -100,10 +100,9 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 
 ## 📦 Installation
-
-  Clone the Repository:
-  ```bash
-  git clone https://github.com/your-username/my-repo.git
+    Clone the Repository:
+    ```bash
+    git clone https://github.com/your-username/my-repo.git
 
   Navigate to the Project Directory:
   ```bash
