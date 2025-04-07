@@ -1,33 +1,29 @@
-🚀 My Repo
+# 🚀 My Repo
 
 A JavaScript project structured with best practices, including ESLint configuration, testing with Jest, and a modular codebase for enhanced maintainability and scalability.
 
-📋 Table of Contents
+---
 
-Pre-requisites & Installations
+## 📋 Table of Contents
+1. [Pre-requisites & Installations](#pre-requisites--installations)
+2. [Setting Up the Repository](#setting-up-the-repository)
+3. [Project Structure](#project-structure)
+4. [Best Practices Implemented](#best-practices-implemented)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [License](#license)
+8. [Author](#author)
 
-Setting Up the Repository
+---
 
-Project Structure
+## 📋 Pre-requisites & Installations
 
-Best Practices Implemented
+### 📌 System Requirements
+- **Node.js & npm:** Ensure you have Node.js and npm installed.
+  ```bash
+  node -v
+  npm -v
 
-Installation
-
-Usage
-
-License
-
-Author
-
-📋 Pre-requisites & Installations
-
-📌 System Requirements
-
-Node.js & npm: Ensure you have Node.js and npm installed.
-
-node -v
-npm -v
 
 If not installed, download from Node.js Official Website.
 
