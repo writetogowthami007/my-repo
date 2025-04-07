@@ -41,40 +41,38 @@ A JavaScript project structured with best practices, including ESLint configurat
 ## 🔧 Setting Up the Repository
 
   1. Initialize npm in the Project Directory
-     
   ```bash
   npm init -y
 
   This creates a package.json file with default settings
 
   2. Install ESLint and Jest
-
   ```bash
   npm install eslint jest --save-dev
+  
+  3. Initialize ESLint Configuration
+  ```bash
+  npx eslint --init
 
-Initialize ESLint Configuration
+  Configure it based on your project type. Add rules if necessary.
 
-npx eslint --init
+  📁 Project Structure
 
-Configure it based on your project type. Add rules if necessary.
+  my-repo/
+  ├── .idea/                   # IDE configuration files (ignored by .gitignore)
+  ├── node_modules/            # Installed npm packages (ignored by .gitignore)
+  ├── src/                     # Source code folder
+  │   └── modules/             # Individual modules or components
+  ├── tests/                   # Unit tests for modules
+  │   └── exampleModule.test.js
+  ├── .eslintrc.json           # ESLint configuration file (JSON format)
+  ├── .gitignore               # Ignored files and directories
+  ├── eslint.config.mjs        # Additional ESLint config file (ESM format)
+  ├── package.json             # Project metadata and dependencies
+  ├── package-lock.json        # Dependency lock file
+  ├── README.md                # Project documentation (You are here!)
 
-📁 Project Structure
-
-my-repo/
-├── .idea/                   # IDE configuration files (ignored by .gitignore)
-├── node_modules/            # Installed npm packages (ignored by .gitignore)
-├── src/                     # Source code folder
-│   └── modules/             # Individual modules or components
-├── tests/                   # Unit tests for modules
-│   └── exampleModule.test.js
-├── .eslintrc.json           # ESLint configuration file (JSON format)
-├── .gitignore               # Ignored files and directories
-├── eslint.config.mjs        # Additional ESLint config file (ESM format)
-├── package.json             # Project metadata and dependencies
-├── package-lock.json        # Dependency lock file
-├── README.md                # Project documentation (You are here!)
-
-📚 Best Practices Implemented
+  📚 Best Practices Implemented
 
 Modular Code Structure
 
