@@ -49,12 +49,12 @@ A JavaScript project structured with best practices, including ESLint configurat
   2. Install ESLint and Jest
     ```bash
     npm install eslint jest --save-dev
-  
-  3. Initialize ESLint Configuration
-  ```bash
-  npx eslint --init
 
-  Configure it based on your project type. Add rules if necessary
+  3. Initialize ESLint Configuration
+    ```bash
+    npx eslint --init
+    
+    Configure it based on your project type. Add rules if necessary
 
 ## 📁 Project Structure
 
