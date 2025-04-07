@@ -52,8 +52,8 @@ A JavaScript project structured with best practices, including ESLint configurat
       npm install eslint jest --save-dev
 
   3. Initialize ESLint Configuration
-      ```bash
-      npx eslint --init
+     ```bash
+     npx eslint --init
     
       Configure it based on your project type. Add rules if necessary
 
@@ -100,7 +100,6 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 
 ## 📦 Installation
-
     Clone the Repository:
     ```bash
     git clone https://github.com/your-username/my-repo.git
