@@ -59,6 +59,22 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 ## 📁 Project Structure
 
+my-repo/
+├── .idea/                   # IDE configuration files (ignored by .gitignore)
+├── node_modules/            # Installed npm packages (ignored by .gitignore)
+├── src/                     # Source code folder
+│   └── modules/             # Individual modules or components
+├── tests/                   # Unit tests for modules
+│   └── exampleModule.test.js
+├── .eslintrc.json           # ESLint configuration file (JSON format)
+├── .gitignore               # Ignored files and directories
+├── eslint.config.mjs        # Additional ESLint config file (ESM format)
+├── package.json             # Project metadata and dependencies
+├── package-lock.json        # Dependency lock file
+├── README.md                # Project documentation (You are here!)
+
+
+
   my-repo/
   ├── .idea/                   # IDE configuration files (ignored by .gitignore)
   ├── node_modules/            # Installed npm packages (ignored by .gitignore)
