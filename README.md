@@ -35,17 +35,17 @@ A JavaScript project structured with best practices, including ESLint configurat
   nvm use <version>
 
 - **Git**: Make sure Git is installed.
-
+  ```bash
   git --version
 
-### 🔧 Setting Up the Repository
+## 🔧 Setting Up the Repository
 
 Initialize npm in the Project Directory
-
+```bash
 npm init -y
 
 This creates a package.json file with default settings.
-
+```bash
 Install ESLint and Jest
 
 npm install eslint jest --save-dev
