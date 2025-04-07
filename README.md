@@ -104,11 +104,11 @@ A JavaScript project structured with best practices, including ESLint configurat
   Clone the Repository:
   ```bash
   git clone https://github.com/your-username/my-repo.git
-  
+
   Navigate to the Project Directory:
   ```bash
   cd my-repo
-  
+
   Install Dependencies:
   ```bash
   npm install
