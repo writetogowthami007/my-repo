@@ -57,7 +57,7 @@ A JavaScript project structured with best practices, including ESLint configurat
 
   Configure it based on your project type. Add rules if necessary.
 
-  📁 Project Structure
+## 📁 Project Structure
 
   my-repo/
   ├── .idea/                   # IDE configuration files (ignored by .gitignore)
@@ -73,39 +73,37 @@ A JavaScript project structured with best practices, including ESLint configurat
   ├── package-lock.json        # Dependency lock file
   ├── README.md                # Project documentation (You are here!)
 
-  📚 Best Practices Implemented
+ 
+## 📚 Best Practices Implemented
 
-Modular Code Structure
-
+📁 Modular Code Structure
 Breaking the code into modules within the src/modules/ directory for better maintainability.
 
-ESLint Configuration
-
+📏 ESLint Configuration
 Configured to maintain coding standards and formatting consistency.
 
-Testing Framework - Jest
-
+✅ Testing Framework - Jest
 Automated testing using Jest for better reliability.
 
-Git Best Practices
-
+🌳 Git Best Practices
 Using .gitignore to exclude unnecessary files (e.g., node_modules/, .idea/).
 
 Clear commit messages with relevant prefixes (feat:, fix:, docs:, etc.).
 
-Consistent Formatting Rules
-
+📐 Consistent Formatting Rules
 Using ESLint rules such as:
 
-semi: Enforces semicolons at the end of statements.
+semi: Enforces semicolons at the end of statements
 
-quotes: Enforces double quotes.
+quotes: Enforces double quotes
 
-indent: Ensures consistent indentation.
+indent: Ensures consistent indentation
 
-no-unused-vars: Warns about unused variables.
+no-unused-vars: Warns about unused variables
 
-prefer-const: Enforces const over let where applicable.
+prefer-const: Enforces const over let where applicable
+
+
 
 📦 Installation
 
