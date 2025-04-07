@@ -57,7 +57,7 @@ A JavaScript project structured with best practices, including ESLint configurat
 
      Configure it based on your project type. Add rules if necessary
 
-  ## Project Structure 📁
+📁  ## Project Structure 📁
 
   ```text
   my-repo/
