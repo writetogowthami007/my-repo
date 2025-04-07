@@ -55,7 +55,7 @@ A JavaScript project structured with best practices, including ESLint configurat
   ```bash
   npx eslint --init
 
-  Configure it based on your project type. Add rules if necessary.
+  Configure it based on your project type. Add rules if necessary
 
 ## 📁 Project Structure
 
@@ -72,7 +72,6 @@ A JavaScript project structured with best practices, including ESLint configurat
   ├── package.json             # Project metadata and dependencies
   ├── package-lock.json        # Dependency lock file
   ├── README.md                # Project documentation (You are here!)
-
  
 ## 📚 Best Practices Implemented
 
@@ -103,9 +102,7 @@ no-unused-vars: Warns about unused variables
 
 prefer-const: Enforces const over let where applicable
 
-
-
-📦 Installation
+## 📦 Installation
 
 Clone the Repository:
 
@@ -119,7 +116,7 @@ Install Dependencies:
 
 npm install
 
-🔍 Usage
+## 🔍 Usage
 
 Start Project:
 
@@ -137,10 +134,10 @@ Auto-fix Lint Errors:
 
 npm run lint:fix
 
-📃 License
+## 📃 License
 
 This project is licensed under the MIT License.
 
-💡 Author
+## 💡 Author
 
 Maintained by Gowthami Mittameeda
