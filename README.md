@@ -72,36 +72,34 @@ A JavaScript project structured with best practices, including ESLint configurat
   ├── eslint.config.mjs        # Additional ESLint config file (ESM format)
   ├── package.json             # Project metadata and dependencies
   ├── package-lock.json        # Dependency lock file
-  ├── README.md                # Project documentation (You are here!)
+  ├── README.md                # Project documentation (You are here!) 
+
  
 ## 📚 Best Practices Implemented
 
-📁 Modular Code Structure
-Breaking the code into modules within the src/modules/ directory for better maintainability.
+### 📁 Modular Code Structure
+    Breaking the code into modules within the src/modules/ directory for better maintainability.
 
-📏 ESLint Configuration
-Configured to maintain coding standards and formatting consistency.
+### 📏 ESLint Configuration
+    Configured to maintain coding standards and formatting consistency.
 
-✅ Testing Framework - Jest
-Automated testing using Jest for better reliability.
+### ✅ Testing Framework - Jest
+    Automated testing using Jest for better reliability.
 
-🌳 Git Best Practices
-Using .gitignore to exclude unnecessary files (e.g., node_modules/, .idea/).
+### 🌳 Git Best Practices
+    Using .gitignore to exclude unnecessary files (e.g., node_modules/, .idea/).
 
-Clear commit messages with relevant prefixes (feat:, fix:, docs:, etc.).
+    Clear commit messages with relevant prefixes (feat:, fix:, docs:, etc.).
 
-📐 Consistent Formatting Rules
-Using ESLint rules such as:
+### 📐 Consistent Formatting Rules
+    Using ESLint rules such as:
 
-semi: Enforces semicolons at the end of statements
+    semi: Enforces semicolons at the end of statements
+    quotes: Enforces double quotes
+    indent: Ensures consistent indentation
+    no-unused-vars: Warns about unused variables
+    prefer-const: Enforces const over let where applicable
 
-quotes: Enforces double quotes
-
-indent: Ensures consistent indentation
-
-no-unused-vars: Warns about unused variables
-
-prefer-const: Enforces const over let where applicable
 
 ## 📦 Installation
 
