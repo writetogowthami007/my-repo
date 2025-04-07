@@ -38,7 +38,7 @@ A JavaScript project structured with best practices, including ESLint configurat
   ```bash
   git --version
 
-## 🔧 Setting Up the Repository
+## Setting Up the Repository
 
   1. Initialize npm in the Project Directory
      
@@ -57,7 +57,7 @@ A JavaScript project structured with best practices, including ESLint configurat
 
      Configure it based on your project type. Add rules if necessary
 
-## 📁 Project Structure
+## Project Structure
 
   ```text
   my-repo/
@@ -76,7 +76,7 @@ A JavaScript project structured with best practices, including ESLint configurat
   ```
 
  
-## 📚 Best Practices Implemented
+## Best Practices Implemented
 
 ### 📁 Modular Code Structure
     - Breaking the code into modules within the src/modules/ directory for better maintainability.
@@ -100,7 +100,7 @@ A JavaScript project structured with best practices, including ESLint configurat
         - prefer-const: Enforces const over let where applicable
 
 
-## 📦 Installation
+## Installation
     Clone the Repository:
     ```bash
     git clone https://github.com/your-username/my-repo.git
@@ -113,7 +113,7 @@ A JavaScript project structured with best practices, including ESLint configurat
     ```bash
     npm install
 
-## 🔍 Usage
+## Usage
 
   Start Project:
   ```bash
@@ -131,10 +131,10 @@ A JavaScript project structured with best practices, including ESLint configurat
   ```bash
   npm run lint:fix
 
-## 📃 License
+## License
 
     This project is licensed under the MIT License
 
-## 💡 Author
+## Author
 
     Maintained by Gowthami Mittameeda
