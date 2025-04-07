@@ -16,7 +16,7 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 ---
 
-## 📋 Pre-requisites & Installations
+## Pre-requisites & Installations
 
 ### 📌 System Requirements
 - **Node.js & npm:** Ensure you have Node.js and npm installed.
