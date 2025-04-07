@@ -28,22 +28,15 @@ A JavaScript project structured with best practices, including ESLint configurat
 
   If not installed, download from [Node.js Official Website](https://nodejs.org/).
 
-- nvm (Node Version Manager): Recommended for managing Node versions.  
+- ** nvm (Node Version Manager) **: Recommended for managing Node versions.  
 
 ```bash
 nvm install latest
 nvm use <version>
 
-If not installed, download from Node.js Official Website.
+- ** Git **: Make sure Git is installed.
 
-nvm (Node Version Manager): Recommended for managing Node versions.
-
-nvm install latest
-nvm use <version>
-
-Git: Make sure Git is installed.
-
-git --version
+  git --version
 
 🔧 Setting Up the Repository
 
