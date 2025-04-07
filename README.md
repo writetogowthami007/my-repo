@@ -40,15 +40,17 @@ A JavaScript project structured with best practices, including ESLint configurat
 
 ## 🔧 Setting Up the Repository
 
-Initialize npm in the Project Directory
-```bash
-npm init -y
+  1. Initialize npm in the Project Directory
+     
+  ```bash
+  npm init -y
 
-This creates a package.json file with default settings.
-```bash
-Install ESLint and Jest
+  This creates a package.json file with default settings
 
-npm install eslint jest --save-dev
+  2. Install ESLint and Jest
+
+  ```bash
+  npm install eslint jest --save-dev
 
 Initialize ESLint Configuration
 
